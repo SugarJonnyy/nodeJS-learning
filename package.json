@@ -1,0 +1,16 @@
+{
+  "name": "nodejslearning",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Saswata",
+  "type": "commonjs",
+  "main": "01-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.23"
+  },
+  "devDependencies": {}
+}
